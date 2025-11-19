@@ -1,0 +1,8 @@
+{
+  "name": "RoomReimagine AI",
+  "description": "An AI-powered interior design consultant. Upload your room, visualize new styles with Gemini 2.5 Flash Image, and refine designs via chat using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
